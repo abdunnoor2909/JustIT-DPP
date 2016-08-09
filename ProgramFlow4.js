@@ -9,7 +9,7 @@
     var outputString = "";
     
     
-    for(var i = 1; i <= 50; i++){
+    for(var i = 0; i <= 50; i++){
         outputString += i + "<br/>";
         document.getElementById("demo").innerHTML = outputString;
 }
