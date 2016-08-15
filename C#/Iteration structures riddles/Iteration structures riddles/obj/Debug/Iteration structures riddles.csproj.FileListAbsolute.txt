@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\bin\Debug\Iteration structures riddles.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\bin\Debug\Iteration structures riddles.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\bin\Debug\Iteration structures riddles.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\obj\Debug\Iteration structures riddles.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\obj\Debug\Iteration structures riddles.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Iteration structures riddles\Iteration structures riddles\obj\Debug\Iteration structures riddles.csprojResolveAssemblyReference.cache

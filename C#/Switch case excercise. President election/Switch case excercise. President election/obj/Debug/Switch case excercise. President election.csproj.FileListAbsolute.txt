@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\bin\Debug\Switch_case_excercise.President_election.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\bin\Debug\Switch_case_excercise.President_election.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\bin\Debug\Switch_case_excercise.President_election.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\obj\Debug\Switch case excercise. President election.csprojResolveAssemblyReference.cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\obj\Debug\Switch_case_excercise.President_election.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Switch case excercise. President election\Switch case excercise. President election\obj\Debug\Switch_case_excercise.President_election.pdb

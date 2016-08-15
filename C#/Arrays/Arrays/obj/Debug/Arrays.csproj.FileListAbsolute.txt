@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\Arrays\Arrays\obj\Debug\Arrays.pdb
