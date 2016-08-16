@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\bin\Debug\List of books excercise.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\bin\Debug\List of books excercise.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\bin\Debug\List of books excercise.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\obj\Debug\List of books excercise.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\obj\Debug\List of books excercise.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\List of books excercise\List of books excercise\obj\Debug\List of books excercise.csprojResolveAssemblyReference.cache

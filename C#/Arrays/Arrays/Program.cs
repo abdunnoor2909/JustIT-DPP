@@ -17,17 +17,22 @@ namespace Arrays
         static void Main(string[] args)
         {
            int[] inputNumbers = new int[5];
-
+           
 
             for (int i = 0; i < inputNumbers.Length; i++)
             {
 
-                inputNumbers[i] = Convert.ToInt32 (Console.ReadLine());
+                inputNumbers[i] = Convert.ToInt32(Console.ReadLine());
 
                 int sum = inputNumbers.Sum();
-                    Console.WriteLine(sum);
-                
+
+                              
+
             }
+
+
+            
+
         }
     }
 }
