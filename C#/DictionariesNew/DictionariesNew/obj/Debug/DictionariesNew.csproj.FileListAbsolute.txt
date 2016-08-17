@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\bin\Debug\DictionariesNew.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\bin\Debug\DictionariesNew.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\bin\Debug\DictionariesNew.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\obj\Debug\DictionariesNew.csprojResolveAssemblyReference.cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\obj\Debug\DictionariesNew.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\DictionariesNew\DictionariesNew\obj\Debug\DictionariesNew.pdb
