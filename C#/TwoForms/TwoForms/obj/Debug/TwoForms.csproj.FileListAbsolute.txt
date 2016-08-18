@@ -1,0 +1,10 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\bin\Debug\TwoForms.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\bin\Debug\TwoForms.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\bin\Debug\TwoForms.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.csprojResolveAssemblyReference.cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.Form1.resources
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.Properties.Resources.resources
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.csproj.GenerateResource.Cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\TwoForms\TwoForms\obj\Debug\TwoForms.Form2.resources
