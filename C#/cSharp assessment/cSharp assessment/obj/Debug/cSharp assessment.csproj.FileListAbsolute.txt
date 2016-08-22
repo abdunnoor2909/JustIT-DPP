@@ -1,0 +1,6 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\bin\Debug\cSharp assessment.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\bin\Debug\cSharp assessment.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\bin\Debug\cSharp assessment.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\obj\Debug\cSharp assessment.csprojResolveAssemblyReference.cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\obj\Debug\cSharp assessment.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\cSharp assessment\cSharp assessment\obj\Debug\cSharp assessment.pdb

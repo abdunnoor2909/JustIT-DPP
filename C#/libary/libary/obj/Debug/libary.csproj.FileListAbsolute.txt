@@ -1,0 +1,8 @@
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\bin\Debug\libary.exe.config
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\bin\Debug\libary.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\bin\Debug\libary.pdb
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\obj\Debug\libary.Form1.resources
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\obj\Debug\libary.Properties.Resources.resources
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\obj\Debug\libary.csproj.GenerateResource.Cache
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\obj\Debug\libary.exe
+C:\Users\student\Fokhrul Islam\GitHub\August\C#\libary\libary\obj\Debug\libary.pdb
