@@ -5,11 +5,10 @@ import static dayTwo.generatePeople.people;
  */
 public class MainProgram {
     public  static void main (String [] args){
-        //generatePeople.addPeople();
 
-        //commandGUI.display();
+
         generatePeople.addPeople();
-        TaskProcessing.executeGUI();
+        new WelcomeWindow();
 
 
 

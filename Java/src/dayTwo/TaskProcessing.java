@@ -12,12 +12,9 @@ import static dayTwo.generatePeople.people;
  * Created by student on 23-Aug-16.
  */
 public class TaskProcessing {
-     WelcomeWindow gui;
 
 
-
-
-    void createEmployee(List<String>data){
+   static void createEmployee(List<String>data){
 
         Employee temp = new Employee(
                         data.get (0),

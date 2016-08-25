@@ -82,7 +82,7 @@ public class commandGUI {//To recieve input and to output information. This is t
         System.out.print("Weight: ");
         employeeData.add(input.nextLine());
 
-        System.out.print("Enter DOB (YYYY/MM/DD: ");
+        System.out.print("Enter DOB (YYYY-MM-DD: ");
         String dob = input.nextLine();
         String [] dobData = dob.split("/");//splits the dob to format it
         //then we have to loop them to assign them one by one
