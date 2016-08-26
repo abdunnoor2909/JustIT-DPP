@@ -8,18 +8,18 @@ public enum CoffeeType {//act like a class. you cannot create anymore objects. T
     Latte(7,230),
     FilterCoffee(10,0);
 
-    private final int requiresBeans;
+    private final int requiredBeans;
     private final int requiredMilk;
 
     //enum supports constructors
 
-    CoffeeType(int requiresBeans, int requiredMilk) {
-        this.requiresBeans = requiresBeans;
+    CoffeeType(int requiredBeans, int requiredMilk) {
+        this.requiredBeans = requiredBeans;
         this.requiredMilk = requiredMilk;
     }
 
-    public int getRequiresBeans() {
-        return requiresBeans;
+    public int getRequiredBeans() {
+        return requiredBeans;
     }
 
     public int getRequiredMilk() {
