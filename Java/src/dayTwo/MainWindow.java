@@ -8,6 +8,7 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.geom.Arc2D;
+import java.sql.SQLException;
 import java.util.*;
 import java.util.List;
 
@@ -234,10 +235,15 @@ public class MainWindow implements ActionListener {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if(creatNew && employeeList.isSelectionEmpty()) {
-                    TaskProcessing.createEmployee(getFieldsInfo());
-                    createEmployeeList();
-                    creatNew = false;
-                    clearTextField();
+                    try {
+                        TaskProcessing.newEmployee(getFieldsInfo());
+                        createEmployeeList();
+                        clearTextField();
+                    }catch (SQLException createEx){
+                        JOptionPane.showMessageDialog(null, "ERROR ADDING EMPLOYEE" +
+                        System.lineSeparator() + createEx);
+                    }
+
                 }
                 else{
                     TaskProcessing.editDetails(employeeIndex, getFieldsInfo());
@@ -330,19 +336,10 @@ public class MainWindow implements ActionListener {
         data.add(txtLastName.getText());
         data.add(txtHeight.getText());
         data.add(txtWeight.getText());
-
-        String[] stringDob = txtBirthdate.getText().split("-");
-        data.add(stringDob[0]);
-        data.add(stringDob[1]);
-        data.add(stringDob[2]);
-
+        data.add(txtBirthdate.getText());
         data.add(txtSex.getText());
         data.add(txtPosition.getText());
-
-        String[] stringHireDate = txtHireDate.getText().split("-");
-        data.add(stringDob[0]);
-        data.add(stringDob[1]);
-        data.add(stringDob[2]);
+        data.add(txtHireDate.getText());
 
         return data;
 
