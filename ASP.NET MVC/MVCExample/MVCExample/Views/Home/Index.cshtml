@@ -1,0 +1,23 @@
+﻿@using MVCExample.Models
+@model IEnumerable<MVCExample.Models.Album>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Records Libary</h2>
+
+
+    @foreach (Album a in Model)
+    {
+        <ul>
+            <li>@a.title</li>
+            <li>@a.artist</li>
+            <li>@a.format</li>
+            <li>@a.price</li>
+
+        </ul>
+    <br/>
+    <hr/>
+    }
+

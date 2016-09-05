@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
-    {
+    {//When the page loads the labels will be invisible.
         Label1.Visible = false;
         Label2.Visible = false;
         Label3.Visible = false;
