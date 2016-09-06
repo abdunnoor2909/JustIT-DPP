@@ -1,0 +1,52 @@
+ .intro-heading1{
+font-family:"Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;!important;
+font-style: italic !important;
+color:bisque;
+}
+
+.intro-heading2{
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+ font-size: 80px !important;
+  color:bisque;
+ 
+}
+
+.intro-button{
+    background-color:#F72A45 !important;
+    border-color: #F72A45;
+}
+
+.intro-button:hover,
+.intro-button:focus,
+.intro-butotn:active {
+    background-color:#F72A45 !important;
+    border-color:aliceblue !important;
+}
+
+.home-button{
+   color:aliceblue !important;
+}
+
+.home-button:hover{
+    color:#F72A45 !important;
+}
+.services-bar{
+   color: aliceblue !important; 
+}
+
+.services-bar:hover
+
+{
+    color: #F72A45 !important;
+    
+}
+
+.services-bar:focus{
+    background-color: #F72A45 !important;
+    color: aliceblue !important;
+}
+
+.services-bar:active{
+    background-color: #F72A45 !important;
+    color: aliceblue !important;
+}
