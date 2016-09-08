@@ -9,7 +9,13 @@ public partial class _Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-       
+        Label1.Visible = false;
+        Label2.Visible = false;
+        Label3.Visible = false;
+        Label4.Visible = false;
+        Label5.Visible = false;
+        Label6.Visible = false;
+        
     }
 
     double basicTax = 0.2;
@@ -156,6 +162,14 @@ public partial class _Default : System.Web.UI.Page
     protected void calculate_Click(object sender, EventArgs e)
         
     {
+        Label1.Visible = true;
+        Label2.Visible = true;
+        Label3.Visible = true;
+        Label4.Visible = true;
+        Label5.Visible = true;
+        Label6.Visible = true;
+        
+
         int grossSalary = Convert.ToInt32(TextBox1.Text);
 
         if(grossSalary > 150000)
